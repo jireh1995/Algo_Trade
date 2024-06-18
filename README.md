@@ -1,8 +1,9 @@
-##Code Description##
-##Data acquisition and preprocessing:
+#Code Description#
+#Data acquisition and preprocessing:
 
 1. get_data() function generates simulated data, which can be replaced by actual data acquisition logic.
-###Genetic algorithm optimizes trading strategy parameters:
+
+#Genetic algorithm optimizes trading strategy parameters:#
 
 2.genetic_algorithm() function uses genetic algorithm to optimize trading strategy parameters, and fitness_function() function is used to calculate fitness value.
 ##Fuzzy logic identifies market status:
