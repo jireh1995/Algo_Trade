@@ -1,4 +1,4 @@
-#Code Description#
+##Code Description##
 #Data acquisition and preprocessing:
 
 1. get_data() function generates simulated data, which can be replaced by actual data acquisition logic.
